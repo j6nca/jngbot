@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m interested in software dev and ui/ux design
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning statistics, Python, JavaScript
 - 📫 Reach me at jngbot@gmail.com
 
