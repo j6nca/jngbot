@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jonathan
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning statistics, Python, JavaScript
+- 👋 Y'Hello, I’m Jonathan
+- 📚 Working with Kubernetes, ArgoCD, Helm
+- 🌱 Learning about MongoDB, GameDev (Unity, Godot)
 - 📫 Reach me at jngbot@gmail.com
 
 <!---
